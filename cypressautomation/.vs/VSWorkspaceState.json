@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\integration",
+    "\\cypress\\integration\\1-getting-started",
+    "\\cypress\\integration\\2-advanced-examples"
+  ],
+  "SelectedNode": "\\cypress\\integration\\2-advanced-examples\\local_storage.spec.js",
+  "PreviewInSolutionExplorer": false
+}
